@@ -27,6 +27,7 @@ Parameters:
 Resources:
   ####################
   ###  EC2 in VPC  ###
+  ###  Muhannad Kh  ###
   ####################
   EC2Instance:
     Type: AWS::EC2::Instance
